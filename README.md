@@ -46,8 +46,8 @@ Below are some images of the TO-DO List with Svelte webapp
 Which Languages and Libraries are used :
 * [Svelte 3](https://svelte.dev/)
 * [Firebase Realtime Database](https://firebase.google.com/products/realtime-database/)
-* [Firebase Hosting](https://firebase.google.com/products/hosting/)
-* [Bulma css](https://bulma.io//)
+* [Now](https://zeit.co/now)
+* [Bulma css](https://bulma.io/)
 * [Font Awesome](https://fontawesome.com)
 
 ## Concept
