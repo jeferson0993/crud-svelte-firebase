@@ -1,93 +1,109 @@
-*Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
-
----
-
-# svelte app
-
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
-
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
-
-```bash
-npx degit sveltejs/template svelte-app
-cd svelte-app
-```
-
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-## Get started
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://user-images.githubusercontent.com/29678099/71330693-1ed06d80-250d-11ea-9b98-a04279392272.jpeg" alt="Logo" width="80" height="80" style="border-radius: 50%;">
+  </a>
 
-Install the dependencies...
+  <h3 align="center">CRUD with Svelte and Firebase</h3>
 
-```bash
-cd svelte-app
-npm install
-```
+  <p align="center">
+    Google Firebase Realtime Database with Svelte 3!
+    <br />
+    <a href="https://"><strong>View Demo</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/jeferson0993/svelte-lista-de-tarefas/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/jeferson0993/">Some Others Repos</a>
+  </p>
+</p>
 
-...then start [Rollup](https://rollupjs.org):
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-```bash
-npm run dev
-```
+ I just have doing an Svelte 3 example website that have:
 
-Navigate to [localhost:5000](http://localhost:5000). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
+    A table to show the data of tasks
+    A input field to add a new task
+    A input field to edit the data of a task
+    Delete a task
 
-By default, the server will only respond to requests from localhost. To allow connections from other computers, edit the `sirv` commands in package.json to include the option `--host 0.0.0.0`.
+The data of a task are: Id and Description.
+
+Below are some images of the TO-DO List with Svelte webapp
+
+![Svelte app](https://user-images.githubusercontent.com/29678099/72456552-a2dfe300-37a3-11ea-89f9-fdb2a43f57d2.png)
+
+### Built With
+Which Languages and Libraries are used :
+* [Svelte 3](https://svelte.dev/)
+* [Firebase Realtime Database](https://firebase.google.com/products/realtime-database/)
+* [Firebase Hosting](https://firebase.google.com/products/hosting/)
+* [Bulma css](https://bulma.io//)
+* [Font Awesome](https://fontawesome.com)
+
+## Concept
+
+> [Live Demo](https://)
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/jeferson0993/svelte-lista-de-tarefas/issues) for a list of proposed features (and known issues).
 
 
-## Building and running in production mode
 
-To create an optimised version of the app:
+<!-- CONTRIBUTING -->
+## Contributing
 
-```bash
-npm run build
-```
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-You can run the newly built app with `npm run start`. This uses [sirv](https://github.com/lukeed/sirv), which is included in your package.json's `dependencies` so that the app will work when you deploy to platforms like [Heroku](https://heroku.com).
-
-
-## Single-page app mode
-
-By default, sirv will only respond to requests that match files in `public`. This is to maximise compatibility with static fileservers, allowing you to deploy your app anywhere.
-
-If you're building a single-page app (SPA) with multiple routes, sirv needs to be able to respond to requests for *any* path. You can make it so by editing the `"start"` command in package.json:
-
-```js
-"start": "sirv public --single"
-```
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 
-## Deploying to the web
 
-### With [now](https://zeit.co/now)
+<!-- LICENSE -->
+## License
 
-Install `now` if you haven't already:
+Distributed under the MIT License. See `LICENSE` for more information.
 
-```bash
-npm install -g now
-```
 
-Then, from within your project folder:
 
-```bash
-cd public
-now deploy --name my-project
-```
+<!-- CONTACT -->
+## Contact
 
-As an alternative, use the [Now desktop client](https://zeit.co/download) and simply drag the unzipped project folder to the taskbar icon.
+Jeferson Ferreira - jeferson0993@gmail.com
 
-### With [surge](https://surge.sh/)
+Project Link: [Repository](https://github.com/jeferson0993/svelte-lista-de-tarefas)
 
-Install `surge` if you haven't already:
 
-```bash
-npm install -g surge
-```
 
-Then, from within your project folder:
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/jeferson0993/svelte-lista-de-tarefas.svg?style=flat-square
+[contributors-url]: https://github.com/jeferson0993/svelte-lista-de-tarefas/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jeferson0993/svelte-lista-de-tarefas.svg?style=flat-square
+[forks-url]: https://github.com/jeferson0993/svelte-lista-de-tarefas/network/members
+[stars-shield]: https://img.shields.io/github/stars/jeferson0993/svelte-lista-de-tarefas.svg?style=flat-square
+[stars-url]: https://github.com/jeferson0993/svelte-lista-de-tarefas/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jeferson0993/svelte-lista-de-tarefas.svg?style=flat-square
+[issues-url]: https://github.com/jeferson0993/svelte-lista-de-tarefas/issues
+[license-shield]: https://img.shields.io/github/license/jeferson0993/svelte-lista-de-tarefas.svg?style=flat-square
+[license-url]: https://github.com/jeferson0993/svelte-lista-de-tarefas/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/jeferson-ferreira-4a036b143/
+[home-screenshot]: https://user-images.githubusercontent.com/29678099/71330655-f47eb000-250c-11ea-8f5c-3069b4c708f7.png
+[add-screenshot]: https://user-images.githubusercontent.com/29678099/71330627-db75ff00-250c-11ea-8fe5-a2c1a02c1550.png
 
-```bash
-npm run build
-surge public my-project.surge.sh
-```
