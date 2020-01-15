@@ -20,7 +20,7 @@
     <a href="https://"><strong>View Demo</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jeferson0993/svelte-lista-de-tarefas/issues">Report Bug</a>
+    <a href="https://github.com/jeferson0993/crud-svelte-firebase/issues">Report Bug</a>
     ·
     <a href="https://github.com/jeferson0993/">Some Others Repos</a>
   </p>
@@ -57,7 +57,7 @@ Which Languages and Libraries are used :
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/jeferson0993/svelte-lista-de-tarefas/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/jeferson0993/crud-svelte-firebase/issues) for a list of proposed features (and known issues).
 
 
 
@@ -86,22 +86,22 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Jeferson Ferreira - jeferson0993@gmail.com
 
-Project Link: [Repository](https://github.com/jeferson0993/svelte-lista-de-tarefas)
+Project Link: [Repository](https://github.com/jeferson0993/crud-svelte-firebase)
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jeferson0993/svelte-lista-de-tarefas.svg?style=flat-square
-[contributors-url]: https://github.com/jeferson0993/svelte-lista-de-tarefas/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jeferson0993/svelte-lista-de-tarefas.svg?style=flat-square
-[forks-url]: https://github.com/jeferson0993/svelte-lista-de-tarefas/network/members
-[stars-shield]: https://img.shields.io/github/stars/jeferson0993/svelte-lista-de-tarefas.svg?style=flat-square
-[stars-url]: https://github.com/jeferson0993/svelte-lista-de-tarefas/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jeferson0993/svelte-lista-de-tarefas.svg?style=flat-square
-[issues-url]: https://github.com/jeferson0993/svelte-lista-de-tarefas/issues
-[license-shield]: https://img.shields.io/github/license/jeferson0993/svelte-lista-de-tarefas.svg?style=flat-square
-[license-url]: https://github.com/jeferson0993/svelte-lista-de-tarefas/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/jeferson0993/crud-svelte-firebase.svg?style=flat-square
+[contributors-url]: https://github.com/jeferson0993/crud-svelte-firebase/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jeferson0993/crud-svelte-firebase.svg?style=flat-square
+[forks-url]: https://github.com/jeferson0993/crud-svelte-firebase/network/members
+[stars-shield]: https://img.shields.io/github/stars/jeferson0993/crud-svelte-firebase.svg?style=flat-square
+[stars-url]: https://github.com/jeferson0993/crud-svelte-firebase/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jeferson0993/crud-svelte-firebase.svg?style=flat-square
+[issues-url]: https://github.com/jeferson0993/crud-svelte-firebase/issues
+[license-shield]: https://img.shields.io/github/license/jeferson0993/crud-svelte-firebase.svg?style=flat-square
+[license-url]: https://github.com/jeferson0993/crud-svelte-firebase/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jeferson-ferreira-4a036b143/
 [home-screenshot]: https://user-images.githubusercontent.com/29678099/71330655-f47eb000-250c-11ea-8f5c-3069b4c708f7.png
