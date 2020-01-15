@@ -17,7 +17,7 @@
   <p align="center">
     Google Firebase Realtime Database with Svelte 3!
     <br />
-    <a href="https://"><strong>View Demo</strong></a>
+    <a href="https://crud-svelte-firebase.now.sh/"><strong>View Demo</strong></a>
     <br />
     <br />
     <a href="https://github.com/jeferson0993/crud-svelte-firebase/issues">Report Bug</a>
@@ -52,7 +52,7 @@ Which Languages and Libraries are used :
 
 ## Concept
 
-> [Live Demo](https://)
+> [Live Demo](https://crud-svelte-firebase.now.sh/)
 
 <!-- ROADMAP -->
 ## Roadmap
