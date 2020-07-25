@@ -22,7 +22,7 @@
     <br />
     <a href="https://github.com/jeferson0993/crud-svelte-firebase/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jeferson0993/">Some Others Repos</a>
+    <a href="http://www.jeferson.tk/">Some Others Projects</a>
   </p>
 </p>
 
@@ -86,7 +86,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Jeferson Ferreira - jeferson0993@gmail.com
 
-Project Link: [Repository](https://github.com/jeferson0993/crud-svelte-firebase)
+[Portfólio](http://www.jeferson.tk/)
 
 
 
