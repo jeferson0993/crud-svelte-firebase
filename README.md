@@ -9,7 +9,8 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://user-images.githubusercontent.com/29678099/71330693-1ed06d80-250d-11ea-9b98-a04279392272.jpeg" alt="Logo" width="80" height="80" style="border-radius: 50%;">
+    <a href="https://github.com/jeferson0993/wallet">
+    <img src="https://user-images.githubusercontent.com/29678099/102724065-83263880-42eb-11eb-8625-37935126a86e.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">CRUD with Svelte and Firebase</h3>
